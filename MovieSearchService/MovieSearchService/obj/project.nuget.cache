@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cjUWDq2dRdL5msdoF+BK9MjzIl+b1j/dRzVdTRaZnFokAGZFMDCBRpzJHna10OH5Ou1begNS2GNezVfBpIb2Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marvin Jenkina\\Desktop\\Movie Search Project\\MovieSearchService\\MovieSearchService\\MovieSearchService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marvin Jenkina\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
