@@ -1,0 +1,12 @@
+.movie-container {
+    background: transparent;
+    width: max-content;
+    margin-left: 850px;
+    margin-bottom: 10px;
+}
+
+.movie-title {
+    font-size: 25px;
+    font-weight: bold;
+    color: red;
+}

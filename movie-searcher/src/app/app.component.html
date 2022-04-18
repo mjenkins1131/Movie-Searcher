@@ -1,0 +1,13 @@
+<h1 class="title">MOVIE SEARCHER 9000</h1>
+<div class="body">
+    <div class="movieSearch-container">
+        <div class="form-group">
+            <label class="movieNameLabel">Movie Name:</label>
+            <input type="text" #nameInput class="form-control">
+            <button class="button" (click)="getMovies(nameInput.value)"> Search</button>
+        </div>
+
+        <app-movie-component *ngFor="let movie of movies | async" [title]="movie">
+        </app-movie-component>
+    </div>
+</div>

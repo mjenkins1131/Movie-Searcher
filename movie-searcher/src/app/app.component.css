@@ -1,0 +1,28 @@
+.button {
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.movieSearch-container {
+    text-align: center;
+    height: 550px;
+}
+
+.title {
+    text-align: center;
+    background-color: transparent;
+    color: black;
+}
+
+.movieNameLabel {
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+.body {
+    /* background-image: url("../assets/MovieBackground.jpg"); */
+    background-repeat: no-repeat;
+    background-size: inherit;
+    background-size: cover;
+    min-height: 900px;
+}
